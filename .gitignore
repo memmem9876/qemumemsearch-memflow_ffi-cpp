@@ -1,0 +1,2 @@
+include/memflow.hpp
+lib/libmemflow_ffi.a
