@@ -1,5 +1,9 @@
 # ubuntu 23.10.1
 
+# qemu install
+
+....
+
 ## cargo 1.74.1
 
 sudo apt install curl
