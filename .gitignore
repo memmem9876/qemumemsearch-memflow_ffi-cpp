@@ -1,3 +1,4 @@
 include/memflow.hpp
 lib/libmemflow_ffi.a
 main.out
+README.md
