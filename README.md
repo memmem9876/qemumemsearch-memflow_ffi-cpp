@@ -78,6 +78,9 @@ cd qemumemsearch-memflow_ffi-cpp
 
 make
 
+virsh start win11
+
+
 sudo ./main.out
 
 
